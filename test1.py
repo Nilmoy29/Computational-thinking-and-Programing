@@ -1,1 +1,1 @@
-print("My name is Azmain Fayk Nilmoy and student id is 202312342")
+print("My name is Azmain Fayk  and student id is 202312342")
